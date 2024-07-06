@@ -8,7 +8,7 @@ Taino, Ryan Nicholas A.
 
 Entry Class File: main.cpp (For both project folder and and seperated files) 
 
-*Two variations are available within the repository. The project folder created by Visual Studio Code 2022 & the a copy of the entry class file, config.txt, and csopesy-log.txt*
+*Two variations are available within the repository. The project folder created by Visual Studio Code 2022 & the copy of the entry class file, config.txt, and csopesy-log.txt*
 
 How to Run Program:
 
