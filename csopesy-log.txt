@@ -1,0 +1,27 @@
+CPU Utilization: 100.00%
+Cores Used: 16
+Cores Available: 0
+
+---------------------------------------------
+Running processes:
+P48          Core: CPU_0 202 / 5000
+P77          Core: CPU_1 46 / 5000
+P15          Core: CPU_2 581 / 5000
+P16          Core: CPU_3 564 / 5000
+P22          Core: CPU_4 459 / 5000
+P78          Core: CPU_5 44 / 5000
+P8          Core: CPU_6 723 / 5000
+P29          Core: CPU_7 368 / 5000
+P42          Core: CPU_8 247 / 5000
+P83          Core: CPU_9 22 / 5000
+P40          Core: CPU_10 261 / 5000
+P44          Core: CPU_11 231 / 5000
+P68          Core: CPU_12 89 / 5000
+P5          Core: CPU_13 789 / 5000
+P12          Core: CPU_14 643 / 5000
+P65          Core: CPU_15 103 / 5000
+
+Finished processes:
+---------------------------------------------
+
+
