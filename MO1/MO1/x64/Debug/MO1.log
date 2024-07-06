@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\College\Term 3 2023-2024\CSOPESY\MO1\MO1\MO1\main.cpp(719,43): warning C4267: 'argument': conversion from 'size_t' to 'SHORT', possible loss of data
+  MO1.vcxproj -> D:\College\Term 3 2023-2024\CSOPESY\MO1\MO1\x64\Debug\MO1.exe
